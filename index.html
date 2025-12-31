@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>It's Raining Spaghetti</title>
+  <link rel="icon" type="image/x-icon" href="assets/cover.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="startMenu">
+        <img src="assets/logo.png" id="logo">
+        <p class="hint">Press SPACE to Start</p>
+      </div>
+      
+
+      
+  <div id="game">
+    <div id="score">Score: 0</div>
+    <div id="pauseText">PAUSED</div>
+
+    <div id="pauseOverlay">
+        <img src="assets/pause_logo.png" id="pauseLogo">
+        <p class="hint">Press SPACE to Resume</p>
+      </div>
+      
+
+      <div id="lives">
+        <img src="assets/heart_full.png" class="heart">
+        <img src="assets/heart_full.png" class="heart">
+        <img src="assets/heart_full.png" class="heart">
+      </div>
+
+      
+
+    <img id="player" src="assets/character_idle.png">
+
+    <div id="endScreen">
+        <img id="endLogo">
+        <p id="finalScore"></p>
+        <p class="hint">Refresh to Play Again</p>
+      </div>
+ 
+      <img id="vomit" src="assets/vomit.png">
+
+
+  </div>
+
+
+  <audio id="music" src="assets/music.mp3"></audio>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
