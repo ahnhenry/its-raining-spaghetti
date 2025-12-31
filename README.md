@@ -1,4 +1,4 @@
-# It's Raining Spaghetti 🍝🎮
+# It's Raining Spaghetti
 
 A fun, pixel-style browser game built with **HTML, CSS, and JavaScript**.  
 Catch the falling spaghetti and meatballs while the song plays, but watch out for unexpected vomit moments that make it harder to see!  
