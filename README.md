@@ -24,7 +24,7 @@ Catch the falling spaghetti and meatballs while the song plays, but watch out fo
 
 ## How to Play
 
-Open `index.html` in your browser. Works best on **mobile-sized resolution**, but the game scales for larger screens.
+Open `index.html` in your browser. Work only on **computer**, as space bar, and left & right arrow keys are neede to play.
 
 ---
 
